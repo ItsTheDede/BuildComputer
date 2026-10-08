@@ -1,3 +1,23 @@
+# BuildComputer
+
+Aplicação interativa desenvolvida em C++ com Raylib para ensinar e explicitar o processo de montagem de um computador.
+
+## Conteúdo
+* **Guia Passo a Passo** - Explicações detalhadas sobre cada componente e a sua instalação
+* **Componentes Interativos** - Identificação de peças (Processador, Motherboard, RAM, GPU, etc.)
+* **Simulador de Montagem** - Visualização e prática do processo de construção do PC
+
+## Como Executar
+1. **Abrir no VS Code**:
+   * Abre o ficheiro `main.code-workspace` no Visual Studio Code.
+2. **Compilar e Executar**:
+   * Pressiona `F5` para compilar e iniciar o programa.
+
+## Objetivo
+Criar uma ferramenta educativa e intuitiva que simplifique a aprendizagem sobre hardware e montagem de computadores.
+
+---
+
 # Raylib-CPP-Starter-Template-for-VSCODE-V2
 Raylib C++ Starter Template for Visual Studio Code on Windows.
 This demo project contains a bouncing ball raylib example program.
